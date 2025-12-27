@@ -1,4 +1,4 @@
-Hey there! 👋
+Hey there! ![waving hand](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 I’m Mobeen Qasim, a frontend engineer and UX enthusiast based in Canada.
 
@@ -9,5 +9,5 @@ My main tech stack is **React.js, JavaScript, TailwindCSS**, and I also work wit
 
 Fun Facts:
 - I have a guinea pig 🐹
-- Love going to the gym 💪
-- Enjoy playing games 🎮
+- I go to the gym regularly 💪
+- I enjoy playing video games 🎮
