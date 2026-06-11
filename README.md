@@ -8,6 +8,5 @@ My main tech stack is **React.js, TypeScript, TailwindCSS, NodeJS, ExpressJS, Mo
 
 
 Fun Facts:
-- I have a guinea pig 🐹
 - I go to the gym regularly 💪
 - I enjoy playing video games 🎮
